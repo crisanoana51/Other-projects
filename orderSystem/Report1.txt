@@ -1,0 +1,2 @@
+orders performed between 18:00 and 20:00 regardless the date
+

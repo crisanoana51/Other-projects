@@ -1,0 +1,9 @@
+Invoice for order with ID: 3
+Roasted Red Pepper Almond Dip  37.0
+Roasted Red Pepper Almond Dip  37.0
+Pizza Dough  76.0
+Hudson Bay  24.0
+Mussels in Green Peppercorn Sauce  41.0
+Arugula and Radicchio with Feta and Dates  67.0
+
+ TOTAL: 282.0
